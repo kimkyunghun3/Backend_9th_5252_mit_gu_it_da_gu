@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b2ece28-3c95-46b4-a689-6de986018325" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="oioitrustyou" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1cULzDkufWWsAIdc98007jqekIj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/oioitrustyou/team/springboot/domain/posts/Posts.java&#10;/Users/eddy/Documents/oioitrustyou/src/main/java/com/oioitrustyou/team/springboot/web/dto/HelloResponseDto.java&#10;/Users/eddy/Documents/oioitrustyou/src/main/java/com/oioitrustyou/team/springboot/web/HelloController.java&#10;/Users/eddy/Documents/oioitrustyou/src/test/java/com/oioitrustyou/team/springboot/web/HelloControllerTest.java&#10;/Users/eddy/Documents/oioitrustyou/src/test/java/com/oioitrustyou/team/springboot/web/dto/HelloResponseDtoTest.java&#10;/Users/eddy/Documents/oioitrustyou/src/main/java/com/oioitrustyou/team/springboot/Application.java" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Gradle.HelloControllerTest">
+    <configuration name="HelloControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.oioitrustyou.team.springboot.web.HelloControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloControllerTest.ReturnHello" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.oioitrustyou.team.springboot.web.HelloControllerTest.ReturnHello&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloResponseDtoTest.LombokTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.oioitrustyou.team.springboot.web.dto.HelloResponseDtoTest.LombokTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="oioitrustyou.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oioitrustyou.team.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.oioitrustyou.team.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HelloControllerTest" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Gradle.HelloResponseDtoTest.LombokTest" />
+        <item itemvalue="Gradle.HelloControllerTest.ReturnHello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2ece28-3c95-46b4-a689-6de986018325" name="Default Changelist" comment="" />
+      <created>1590578485788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590578485788</updated>
+      <workItem from="1590578493851" duration="4699000" />
+      <workItem from="1591185214007" duration="1616000" />
+      <workItem from="1591186893073" duration="35000" />
+      <workItem from="1591186949922" duration="1220000" />
+      <workItem from="1594546858570" duration="549000" />
+      <workItem from="1594547415813" duration="33000" />
+      <workItem from="1594547453314" duration="3430000" />
+      <workItem from="1594557952283" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1280" height="800" key="#Project_Structure" timestamp="1591188335277">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="1280" height="800" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1591188335277" />
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594547125951">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1594547125951" />
+    <state x="100" y="100" width="1080" height="600" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594551839375">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.800@0.0.1280.800" timestamp="1594551839375" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1591187877819">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1591187877819" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom" timestamp="1594557811613">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594557811613" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center" timestamp="1594557811612">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594557811612" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left" timestamp="1594557811611">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594557811611" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right" timestamp="1594557811612">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594557811612" />
+    <state width="1238" height="262" key="GridCell.Tab.1.bottom" timestamp="1594557811604">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594557811604" />
+    <state width="1238" height="262" key="GridCell.Tab.1.center" timestamp="1594557811603">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1594557811603" />
+    <state width="1238" height="262" key="GridCell.Tab.1.left" timestamp="1594557811603">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1594557811603" />
+    <state width="1238" height="262" key="GridCell.Tab.1.right" timestamp="1594557811604">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="262" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1594557811604" />
+    <state x="268" y="86" key="NewModule_or_Project.wizard" timestamp="1594547368398">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="268" y="86" key="NewModule_or_Project.wizard/0.0.1280.800@0.0.1280.800" timestamp="1594547368398" />
+    <state x="141" y="23" width="1024" height="722" key="SettingsEditor" timestamp="1594547408560">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="23" width="1024" height="722" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1594547408560" />
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590579880379">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1590579880379" />
+    <state x="331" y="296" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590579812903">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="331" y="296" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.800@0.0.1280.800" timestamp="1590579812903" />
+    <state x="8" y="22" key="new project wizard" timestamp="1594557983894">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="8" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1594557983894" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594557996891">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1594557996891" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.710@0.23.1280.710" timestamp="1594557987839" />
+  </component>
+</project>
